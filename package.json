@@ -1,0 +1,33 @@
+{
+  "name": "eca-fair",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/copy-wasm.mjs && node scripts/migrate.mjs --build && next build",
+    "start": "next start",
+    "migrate": "node --env-file-if-exists=.env.local scripts/migrate.mjs",
+    "seed:demo": "node --env-file-if-exists=.env.local scripts/seed-demo.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test --test-concurrency=1 'tests/*.test.ts'"
+  },
+  "dependencies": {
+    "@vercel/functions": "^3.11.3",
+    "next": "^16.4.6",
+    "pg": "^8.23.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zxing-wasm": "3.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "5.9"
+  }
+}

@@ -1,0 +1,55 @@
+Club Code,Club Name,Fee,Category
+A01,Business & Accounting Society,$0.00 ,Academic
+A02,Chinese Culture Society,$0.00 ,Academic
+A03,Economics Society,$0.00 ,Academic
+A04,French Culture Society,$0.00 ,Academic
+A05,Geography Society,$0.00 ,Academic
+A06,History and Heritage Society,$5.00 ,Academic
+A07,Mathematics Society,$5.00 ,Academic
+A08,Putonghua Society,$5.00 ,Academic
+A09,Science Society,$0.00 ,Academic
+C01,Art Society,$0.00 ,Cultural
+C02,Dancing Society,$0.00 ,Cultural
+C03,Drama & Film Society,$0.00 ,Cultural
+C04,Music Club,$10.00 ,Cultural
+C05,Public Speaking Club,$0.00 ,Cultural
+I01,Astronomy Club,$2.00 ,Interest
+I02,Bridge Club,$5.00 ,Interest
+I03,Chess Club,$5.00 ,Interest
+I04,Current Affairs Club,$0.00 ,Interest
+I05,Debating Club,$0.00 ,Interest
+I06,Gospel Train,$0.00 ,Interest
+I07,Internet Culture Club,$5.00 ,Interest
+I08,IT Club,$0.00 ,Interest
+I09,Modelling Club,$8.00 ,Interest
+I10,Robotics Club,$5.00 ,Interest
+U01,Community Youth Club,$0.00 ,Service
+U02,HK Air Cadet Corps,$5.00 ,Service
+U03,HK Award for Young People,$0.00 ,Service
+U04,Interact Club,$0.00 ,Service
+U06,Red Cross,$0.00 ,Service
+U07,St. John Ambulance Brigade,$5.00 ,Service
+U08,UNICEF,$0.00 ,Service
+U09,Catholic Society,$0.00 ,Service
+U10,HK Lasallian Youth Movement,$0.00 ,Service
+U12,Legion of Mary,$0.00 ,Service
+U13,Scout Troop (F.1-3),$0.00 ,Service
+U14,Venture Scout Unit (F.4-6),$0.00 ,Service
+S01,Archery Club,$0.00 ,Sports
+S02,Athletics Club,$10.00 ,Sports
+S03,Badminton Club,$5.00 ,Sports
+S04,Basketball Club,$10.00 ,Sports
+S05,Distance Runners' Club,$10.00 ,Sports
+S06,Fencing Club,$0.00 ,Sports
+S07,Football Club,$0.00 ,Sports
+S08,Handball Club,$10.00 ,Sports
+S09,Indoor Rowing Club,$10.00 ,Sports
+S10,Orienteering Club,$5.00 ,Sports
+S11,Rugby Club,$0.00 ,Sports
+S12,Softball Club,$0.00 ,Sports
+S13,Squash Club,$5.00 ,Sports
+S14,Swimming Club,$0.00 ,Sports
+S15,Table Tennis Club,$10.00 ,Sports
+S16,Taekwondo Club,$5.00 ,Sports
+S17,Tenpin Bowling Club,$10.00 ,Sports
+S18,Volleyball Club,$5.00 ,Sports
